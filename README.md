@@ -1,0 +1,2 @@
+# lexi
+Legal documentation generator
